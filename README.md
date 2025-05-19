@@ -37,3 +37,6 @@ This project is a machine learning solution that classifies news articles as **R
   - explains one prediction at a time by creating a simpler model around that instance
   - shows what features influenced it the most
   - perfect to understand why a particular article was predicted to be fake or real
+
+## 🙌 Credits
+Project by Sri – an aspiring Data Scientist exploring AI in creative ways!
